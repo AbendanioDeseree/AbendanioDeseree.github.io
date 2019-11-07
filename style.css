@@ -106,7 +106,7 @@ ul li:hover ul li{
 }
 
 .school image{
-  background: url(images/jumbotron_bg.jpg) center center;
+  background: url(images/website_logo.png) center center;
   background-size: cover;
   height: 600px;
 }
