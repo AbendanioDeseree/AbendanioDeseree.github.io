@@ -1,6 +1,6 @@
 body{
 	background:url("images/logo_files/website_logo.png")no-repeat;
-	background-size:cover;
+	background-size:stretch;
 	font-family:Arial;
 	color:white;
 }
