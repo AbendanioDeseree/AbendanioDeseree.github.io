@@ -46,7 +46,7 @@ ul li:hover ul li{
 }
 
 .header {
-  background: url() no-repeat center center;
+  background: url("images/logo_files/f.jpg") no-repeat center center;
   background-size: cover;
   height: 800px;
   text-align: center;
