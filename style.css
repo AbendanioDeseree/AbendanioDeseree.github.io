@@ -43,7 +43,7 @@ ul li:hover ul li{
   margin: 0 auto;
   max-width: 9470px;
   padding: 0 10px;
-  font color: black;
+
 }
 
 .header {
@@ -62,6 +62,7 @@ ul li:hover ul li{
   color: #fff;
   line-height: 100px;
   font-size: 80px;
+  font color: black;
   margin-top: 0;
   margin-bottom: 80px;
   text-transform: uppercase;
