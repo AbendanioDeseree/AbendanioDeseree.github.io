@@ -46,7 +46,7 @@ ul li:hover ul li{
 }
 
 .header {
-  background: url("images/logo_files/f.jpg") no-repeat center center;
+  background: url("images/logo_files/F.jpg") no-repeat center center;
   background-size: cover;
   height: 800px;
   text-align: center;
@@ -106,7 +106,7 @@ ul li:hover ul li{
 }
 
 .school image{
-  background: url(images/logo_files/f.jpg) center center;
+  background: url(images/logo_files/F.jpg) center center;
   background-size: cover;
   height: 600px;
 }
