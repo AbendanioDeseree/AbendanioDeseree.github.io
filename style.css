@@ -46,7 +46,7 @@ ul li:hover ul li{
 }
 
 .header {
-  background: url(images/logo_files/website_logo.png) no-repeat center center;
+  background: url() no-repeat center center;
   background-size: cover;
   height: 800px;
   text-align: center;
@@ -58,7 +58,7 @@ ul li:hover ul li{
 }
 
 .header h1 {
-  color: #fff;
+  color: black;
   line-height: 100px;
   font-size: 80px;
   margin-top: 0;
