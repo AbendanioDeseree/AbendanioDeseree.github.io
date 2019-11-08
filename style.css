@@ -1,6 +1,6 @@
 body{
 	background:url("images/logo_files/website_logo.png")no-repeat center center;
-	background-size:cover;
+	background-size:center center;
 	font-family:Arial;
 	color:white;
 }
@@ -147,7 +147,7 @@ ul li:hover ul li{
 
 @media (max-width: 500px) {
   .header h1 {
-    font-size: 500px;
+    font-size: 100px;
     line-height: 64px;
   }
 
