@@ -2,7 +2,7 @@ body{
 	background:url("")no-repeat center center;
 	background-size:center center;
 	font-family:Arial;
-	color:white;
+	color:rgb();
 }
 ul{
 	margin:1px;
@@ -15,7 +15,7 @@ ul li {
 	float:left;
 	width:200px;
 	height:50px;
-	background-color:white;
+	background-color:black;
 	opacity:.8;
 	line-height:50px;
 	text-align:center;
