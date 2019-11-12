@@ -1,5 +1,5 @@
 body{
-	background:url("images/nn.jpg")no-repeat ;
+	background:url("")no-repeat ;
 	background-size:cover;
 	font-family:Arial;
 	color:white;
@@ -106,7 +106,7 @@ ul li:hover ul li{
 }
 
 .school image{
-  background: url(images/V.jpg) center center;
+  background: url(images/nn.jpg) center center;
   background-size: cover;
   height: 600px;
 }
