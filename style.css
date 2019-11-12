@@ -78,7 +78,7 @@ ul li:hover ul li{
   letter-spacing: 1px;
   margin-bottom: 50px;
   margin-top: 50;
-  text-transform: uppercase;
+  text-transform: none;
   text-align:center center;
 }
 
