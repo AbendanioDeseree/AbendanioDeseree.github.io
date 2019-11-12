@@ -1,6 +1,6 @@
 body{
 	background:url("images/nn.jpg")no-repeat ;
-	background-size:center center;
+	background-size:cover;
 	font-family:Arial;
 	color:white;
 }
@@ -46,7 +46,7 @@ ul li:hover ul li{
 }
 
 .header {
-  background: url("images/b.jpg") no-repeat center center;
+  background: url("images/nn.jpg") no-repeat center center;
   background-size: cover;
   height: 800px;
   text-align: center;
