@@ -58,7 +58,7 @@ span.psw {
 
 .modal {
   display: none;
-  position: center; 
+  position: fixed; 
   z-index: 1; 
   left: 0;
   top: 0;
@@ -123,7 +123,12 @@ span.psw {
 </style>
 </head>
 <body>
-    <form class="modal-content animate" action="/action_page.php" method="post">
+
+<button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
+
+<div id="id01" class="modal">
+  
+  <form class="modal-content animate" action="/action_page.php" method="post">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
       <img src="images/logo_files/log.jpg" alt="Avatar" class="avatar">
