@@ -51,12 +51,12 @@ button:hover {
 }
 
 span.psw {
-  float: right;
+  float: rigcht;
   padding-top: 16px;
 }
 
 
-.container {
+.modal {
   display: none;
   position: center; 
   z-index: 1; 
@@ -71,7 +71,7 @@ span.psw {
 }
 
 
-.container-content {
+.modal-content {
   background-color: #fefefe;
   margin: 5% auto 15% auto; 
   border: 1px solid #888;
@@ -123,6 +123,7 @@ span.psw {
 </style>
 </head>
 <body>
+<div class="modal" class="modal-content">
 
     <div class="container">
       <label for="Username"><b>Username</b></label>
@@ -135,6 +136,7 @@ span.psw {
       <label>
         <input type="checkbox" checked="checked" name="remember"> Remember me
       </label>
+    </div>
     </div>
 
     <div class="container" style="background-color:#f1f1f1">
