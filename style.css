@@ -73,13 +73,13 @@ ul li:hover ul li{
 }
 
 .header p {
-  color: #ff3300;
+  color: black;
   font-weight: 500;
   letter-spacing: 8px;
   margin-bottom: 40px;
   margin-top: 0;
   text-transform: uppercase;
-  position: center center;
+  text-align:center;;
 }
 
 .btn {
@@ -108,7 +108,7 @@ ul li:hover ul li{
 
 .school image{
   background: url(images/m.jpg);
-  background-size: cover;
+  background-size: center center;
   height: 600px;
 }
 
