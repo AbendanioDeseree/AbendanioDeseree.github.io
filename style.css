@@ -108,14 +108,14 @@ ul li:hover ul li{
 
 .school image{
   background: url();
-  background-size: center center;
-  height: 600px;
+  background-size: 200px;
+  height: 400px;
 }
 
 .school image.container {
   position: relative;
   top: 220px;
-}
+}1
 
 .school image h2 {
   color: #fff;
