@@ -107,7 +107,7 @@ ul li:hover ul li{
 }
 
 .school image{
-  background: url();
+  background: url(images/about.jpg);
   background-size: 200px;
   height: 400px;
 }
