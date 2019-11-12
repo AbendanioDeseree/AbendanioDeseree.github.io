@@ -1,6 +1,6 @@
 body{
 	background:url("images/c.jpg")no-repeat ;
-	background-size:cover;
+	background-size:center center;
 	font-family:Arial;
 	color:white;
 }
@@ -79,10 +79,11 @@ ul li:hover ul li{
   margin-bottom: 40px;
   margin-top: 0;
   text-transform: uppercase;
+  position: center center;
 }
 
 .btn {
-  color: #fff;
+  color: white;
   background: blue;
   padding: 10px 40px;
   text-decoration: none;
@@ -106,7 +107,7 @@ ul li:hover ul li{
 }
 
 .school image{
-  background: url(images/m.jpg) center center;
+  background: url(images/m.jpg);
   background-size: cover;
   height: 600px;
 }
