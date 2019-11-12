@@ -60,8 +60,8 @@ span.psw {
   display: none;
   position: center; 
   z-index: 1; 
-  left: 50px;
-  top: 50px;
+  left:0;
+  top: 0;
   width: 80%; 
   height: 80%; 
   overflow: auto; 
@@ -73,10 +73,9 @@ span.psw {
 
 .modal-content {
   background-color: #fefefe;
-  padding: 80px;
-  margin: 15% auto 15% auto; 
-  border: 10px solid #888;
-  width: 80%; 
+  margin: 5% auto 15% auto; 
+  border: 1px solid #888;
+  width: 60%; 
 }
 
 
@@ -124,6 +123,8 @@ span.psw {
 </style>
 </head>
 <body>
+
+<button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
 
 
 <div id="id01" class="modal">
