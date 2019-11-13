@@ -29,12 +29,12 @@ if (empty($username)) {
 		else{
 			echo "Error:". $sql ."<br>. $conn->error;
 		}
-		$conn->close();
+		;
 	}
 	}
 
 	else{
-		echo "Passsword should not be empty";
+	com_message_pump("")
 		die();
 	}
 	}
@@ -43,6 +43,8 @@ if (empty($username)) {
 		die();
 	}			
 	
-	
+	$conn->close()
+
+}
 
 ?>
