@@ -1,8 +1,9 @@
 body{
 	background:url("images/sed.jpg")no-repeat ;
-	background-size: left;
+	background-size: fixed;
 	font-family:Arial;
 	color:white;
+  float: leftt;
 }
 ul{
 	margin:1px;
@@ -51,6 +52,7 @@ ul li:hover ul li{
   background-size: ;
   height: 80px;
   text-align: center;
+  float: right;
 }
 
 .header container {
