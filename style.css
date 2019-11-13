@@ -1,9 +1,8 @@
 body{
 	background:url("images/c.jpg")no-repeat ;
-	background-size: fixed;
+	background-size: cover;
 	font-family:Arial;
 	color:white;
-  float: leftt;
 }
 ul{
 	margin:1px;
