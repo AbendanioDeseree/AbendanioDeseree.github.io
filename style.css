@@ -1,5 +1,5 @@
 body{
-	background: ;
+	background:;
 	background-size: cover;
 	font-family:Arial;
 	color:white;
@@ -12,7 +12,7 @@ ul{
   
 }
 ul li {
-	float:left;
+	
 	width:200px;
 	height:50px;
 	background-color: white;
@@ -25,7 +25,7 @@ ul li {
 ul li a{
 	text-decoration: uppercase;
 	display:block;
-  float: left;
+ 
 }
 ul li a:hover{
 	background-color:skyblue;
@@ -51,7 +51,7 @@ ul li:hover ul li{
   background-size: ;
   height: 80px;
   text-align: center;
-  float: right;
+ 
 }
 
 .header container {
@@ -79,6 +79,7 @@ ul li:hover ul li{
   font-weight: 500;
   letter-spacing: 1px;
   margin-bottom: 50px;
+  margin-left: 50px;
   margin-top: 50;
   text-transform: none;
   text-align:center center;
