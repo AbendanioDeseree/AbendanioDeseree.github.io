@@ -16,14 +16,15 @@ if (empty($username)) {
 		$conn = new mysqli($host,  $dbusername, $dbpassword, $dbname);
 
 		if (mysqli_connect_error()){
-			die('Connect Error('. mysqli_connect_errno() . ')'
+			die('Connect Error('. mysqli_connect_error() . ')'
 				. mysqli_connect_error());
 
 		}
 	else{
 		$sql ="INSERT INTO `logintbl`(username, password)
 		values ('$username, '$password');
-		if ($conn->query($sql)){
+		}
+		if ("$conn->query($sql)){
 		echo "Log in Successful";
 		}
 		else{
