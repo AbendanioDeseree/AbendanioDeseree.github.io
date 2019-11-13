@@ -21,7 +21,7 @@ if (empty($username)) {
 
 		}
 	else{
-		$sql ="INSERT INTO logintbl(username, password)
+		$sql ="INSERT INTO `logintbl`(username, password)
 		values ('$username, '$password');
 		if ($conn->query($sql)){
 		echo "Log in Successful";
