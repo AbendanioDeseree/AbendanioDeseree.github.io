@@ -1,5 +1,5 @@
 body{
-	background:;
+	background:url("images/c.jpg")no-repeat ;
 	background-size: cover;
 	font-family:Arial;
 	color:white;
@@ -12,7 +12,7 @@ ul{
   
 }
 ul li {
-	
+	float:left;
 	width:200px;
 	height:50px;
 	background-color: white;
@@ -23,12 +23,11 @@ ul li {
 	margin-right:3px;
 }
 ul li a{
-	text-decoration: uppercase;
+	text-decoration:none;
 	display:block;
- 
 }
 ul li a:hover{
-	background-color:skyblue;
+	background-color:green;
 	
 }
 ul li ul li {
@@ -47,11 +46,10 @@ ul li:hover ul li{
 }
 
 .header {
-  background:url("images/c.jpg")no-repeat ;
+  background: url() no-repeat;
   background-size: ;
   height: 80px;
   text-align: center;
- 
 }
 
 .header container {
@@ -79,11 +77,9 @@ ul li:hover ul li{
   font-weight: 500;
   letter-spacing: 1px;
   margin-bottom: 50px;
-  margin-left: 50px;
   margin-top: 50;
   text-transform: none;
   text-align:center center;
-  float: right;
 }
 
 .btn {
