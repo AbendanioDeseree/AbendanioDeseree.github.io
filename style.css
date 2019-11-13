@@ -1,6 +1,6 @@
 body{
 	background:url("images/x.jpg")no-repeat ;
-	background-size: cover;
+	background-size: fixed;
 	font-family:Arial;
 	color:white;
 }
