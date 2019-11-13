@@ -1,6 +1,6 @@
 body{
 	background:url("images/sed.jpg")no-repeat ;
-	background-size: fixed;
+	background-size: cover;
 	font-family:Arial;
 	color:white;
 }
@@ -23,8 +23,9 @@ ul li {
 	margin-right:3px;
 }
 ul li a{
-	text-decoration:none;
+	text-decoration: uppercase;
 	display:block;
+  float: left;
 }
 ul li a:hover{
 	background-color:green;
