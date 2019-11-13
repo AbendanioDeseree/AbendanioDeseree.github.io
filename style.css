@@ -1,5 +1,5 @@
 body{
-	background:url("images/c.jpg")no-repeat ;
+	background: ;
 	background-size: cover;
 	font-family:Arial;
 	color:white;
@@ -47,7 +47,7 @@ ul li:hover ul li{
 }
 
 .header {
-  background: url() no-repeat;
+  background:url("images/c.jpg")no-repeat ;
   background-size: ;
   height: 80px;
   text-align: center;
