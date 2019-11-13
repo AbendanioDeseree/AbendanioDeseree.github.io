@@ -28,7 +28,7 @@ ul li a{
   float: left;
 }
 ul li a:hover{
-	background-color:green;
+	background-color:skyblue;
 	
 }
 ul li ul li {
@@ -81,6 +81,7 @@ ul li:hover ul li{
   margin-top: 50;
   text-transform: none;
   text-align:center center;
+  float: right;
 }
 
 .btn {
