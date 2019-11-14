@@ -54,6 +54,7 @@ ul li:hover ul li{
 }
 
 .header container {
+  background: url("images/about.jpg");
   position: center center;
   top: 200px;
 }
