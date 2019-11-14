@@ -1,5 +1,6 @@
 body{
-	
+  background: url("images/c.jpg");
+	background-position: cover;
 	font-family:Arial;
 	color:white;
 }
@@ -41,7 +42,7 @@ ul li:hover ul li{
   margin: 0 auto;
   max-width: 9470px;
   padding: 0 30px;
-  background: url("images/c.jpg");
+
 
 }
 
