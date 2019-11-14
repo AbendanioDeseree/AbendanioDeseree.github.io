@@ -41,11 +41,12 @@ ul li:hover ul li{
   margin: 0 auto;
   max-width: 9470px;
   padding: 0 30px;
+  background: url("images/c.jpg");
 
 }
 
 .header {
-  background:url("images/c.jpg")no-repeat ;
+  background:url()no-repeat ;
   background-size: cover;
   height: 80px;
   text-align: center;
